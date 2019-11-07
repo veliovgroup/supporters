@@ -3,7 +3,7 @@
 ### Hello there 👋
 
 We are running open source projects, people love what we are doing, and people support our activity with 💵 and 🤑, thank you all! 
-[Become a patron](https://patreon.com/dr_dimitru) to support my open source contributions monthly, or [donate once](https://paypal.me/veliovgroup).
+[Become a patron](https://patreon.com/dr_dimitru) to support our open source contributions monthly, or [donate once](https://paypal.me/veliovgroup).
 
 ## Sponsors:
 
