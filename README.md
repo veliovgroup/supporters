@@ -1,14 +1,17 @@
 # supporters
 
+A list of companies, individuals, and fellow-developers who supports our open source contributions.
+
 ### Hello there 👋
 
-We are running open source projects, people love what we are doing, and people support our activity with 💵 and 🤑, thank you all! 
-[Become a patron](https://patreon.com/dr_dimitru) to support our open source contributions monthly, or [donate once](https://paypal.me/veliovgroup).
+We maintain and contribute to the variety of open source projects within JavaScript ecosystem. Developers are in love with our codebase, documentation, and support we provide. Some love our work that much that they are ready to share their 💵 and 🤑 with us. Support our open source [contributions monthly](https://github.com/sponsors/dr-dimitru), or [one-time](https://github.com/sponsors/dr-dimitru?frequency=one-time&sponsor=dr-dimitru&amount=250).
 
 ## Sponsors:
 
-- __[Mikhail Shishov](https://github.com/mksh-su)__; Check out Mike's project [Getavector](https://getavector.com/en/) — a service where you can get free, neat SVG illustrations for your next project. 
-- *Your name can be here, [become a patron](https://patreon.com/dr_dimitru)*
+- [@DanielDornhardt](https://github.com/DanielDornhardt)
+- [@petrupp](https://github.com/petrupp)
+- [@cleverbeagle](https://github.com/cleverbeagle)
+- *Your username can be here, [get a recurring subscription](https://github.com/sponsors/dr-dimitru)*
 
 ## Supporters:
 
@@ -23,4 +26,5 @@ We are running open source projects, people love what we are doing, and people s
 - [@themeteorchef](https://github.com/themeteorchef)
 - [@MeDBejoHok](https://github.com/MeDBejoHok)
 - [@martunta](https://github.com/martunta)
-- *Your name can be here, [become a patron](https://patreon.com/dr_dimitru)*
+- [@mksh-su](https://github.com/mksh-su)
+- *Your username can be here, [support our contributions](https://github.com/sponsors/dr-dimitru?frequency=one-time&sponsor=dr-dimitru&amount=250)*
